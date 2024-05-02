@@ -1,0 +1,42 @@
+DiveIntoCompetition ScubaDiver MaxineHarper
+DiveIntoCompetition FreeDiver JamalCarter
+DiveIntoCompetition SkyDiver FionaBennett
+DiveIntoCompetition FreeDiver OscarWallace
+DiveIntoCompetition ScubaDiver LilaMoreno
+DiveIntoCompetition FreeDiver LilaMoreno
+SwimIntoCompetition ReefFish AzureDamselfish 8.7
+SwimIntoCompetition ReefFish BluestripeSnapper 6.3
+SwimIntoCompetition ReefFish YellowtailSurgeonfish 5.0
+SwimIntoCompetition PredatoryFish Barracuda 9.2
+SwimIntoCompetition PredatoryFish Coryphaena 9.7
+SwimIntoCompetition PredatoryFish Bluefish 4.4
+SwimIntoCompetition DeepSeaFish SwordFish 10.0
+SwimIntoCompetition DeepSeaFish Mahi-Mahi 9.1
+SwimIntoCompetition DeepSeaFish Tuna 8.5
+SwimIntoCompetition AquariumFish SilverArowana 3.3
+SwimIntoCompetition DeepSeaFish Barracuda 8.6
+ChaseFish FionaBennett AzureDamselfish False
+ChaseFish JamalCarter SilverArowana True
+ChaseFish MaxineHarper YellowtailSurgeonfish False
+ChaseFish MaxineHarper AzureDamselfish True
+ChaseFish MaxineHarper Mahi-Mahi False
+ChaseFish MaxineHarper Tuna False 
+ChaseFish MaxineHarper Bluefish True
+ChaseFish MaxineHarper Coryphaena True
+ChaseFish MaxineHarper BluestripeSnapper True
+ChaseFish OscarWallace Barracuda False
+ChaseFish OscarWallace YellowtailSurgeonfish False
+ChaseFish OscarWallace Tuna True
+ChaseFish OscarWallace AzureDamselfish True
+ChaseFish JamalCarter Tuna True
+ChaseFish JamalCarter BluestripeSnapper False
+ChaseFish LilaMoreno Tuna False
+ChaseFish LilaMoreno Mahi-Mahi False
+ChaseFish LilaMoreno SwordFish True
+HealthRecovery
+ChaseFish LilaMoreno Tuna False
+ChaseFish LilaMoreno Mahi-Mahi False
+ChaseFish LilaMoreno SwordFish True
+DiverCatchReport LilaMoreno
+CompetitionStatistics
+Exit
