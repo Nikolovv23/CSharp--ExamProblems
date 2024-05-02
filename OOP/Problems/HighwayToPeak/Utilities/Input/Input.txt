@@ -1,0 +1,40 @@
+AddPeak Everest 8848 Extreme
+AddPeak Kangchenjunga 8586 Hard
+AddPeak Lhotse 8516 Hard
+AddPeak Makalu 8463 Hard
+AddPeak ChoOyu 8201 Moderate
+AddPeak Dhaulagiri 8167 Moderate
+AddPeak Manaslu 8156 Moderate
+AddPeak NangaParbat 8126 Extreme
+AddPeak Annapurna 8091 Extreme
+AddPeak ShishaPangma 8012 Extreme
+NewClimberAtCamp LiamSmith false
+NewClimberAtCamp EthanLee true
+NewClimberAtCamp MasonKim false
+NewClimberAtCamp JacobMartinez true
+NewClimberAtCamp JacobMartinez true
+AttackPeak LiamSmith Lhotse
+AttackPeak EthanLee Makalu
+AttackPeak MasonKim UnlistedPeak
+AttackPeak JacobMartinez Dhaulagiri
+AttackPeak LiamSmith NangaParbat
+AttackPeak EthanLee Everest
+AttackPeak MasonKim ChoOyu
+AttackPeak MasonKim Manaslu
+AttackPeak JacobMartinez ShishaPangma
+CampRecovery LiamSmith 6
+CampRecovery LiamSmith 6
+CampRecovery EthanLee 2
+CampRecovery MasonKim 3
+CampRecovery JacobMartinez 7
+AttackPeak LiamSmith ChoOyu
+AttackPeak LiamSmith Dhaulagiri
+AttackPeak LiamSmith Manaslu
+AttackPeak LiamSmith ChoOyu
+AttackPeak EthanLee Annapurna
+AttackPeak MasonKim Kangchenjunga
+AttackPeak JacobMartinez NangaParbat
+AttackPeak JacobMartinez Dhaulagiri
+BaseCampReport
+OverallStatistics
+Exit
